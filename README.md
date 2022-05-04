@@ -14,7 +14,7 @@ The linear regression model was fit on the data. The model metrics are :<br>
 -Test Rsquared = `0.848`<br>
 
 The equation of the best fit line is :
-`cnt = 835.9 + 5015.1 * atemp + 2007.0 x yr + 1027.* winter + 75.4 * weekday - 2090.3 * light rain/snow - 812.6 * windspeed - 599.2 * holiday - 595.4 * misty`
+`cnt = 835.9 + 5015.1 * atemp + 2007.0 x yr + 1027.* winter + 525.9 * summer + 75.4 * weekday - 2090.3 * light rain/snow - 812.6 * windspeed - 599.2 * holiday - 595.4 * misty`
 
 **License**<br>
 Use of this dataset in publications must be cited to the following publication:
